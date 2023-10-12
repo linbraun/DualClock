@@ -1,4 +1,6 @@
 # Dual Clock
+### CS 210 Programming Languages | October 2022
+Object-oriented programming (OOP) application featuring dual 12 and 24-hour clocks with interactive user input functionality.
 
 ### Summarize the project and what problem it was solving.
 For this project, I was tasked to develop an object-oriented programming (OOP) application to create two clocks that display simultaneously and allow for user input using secure and efficient C++ code.
