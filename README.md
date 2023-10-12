@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Dual Clock
 
 ### Summarize the project and what problem it was solving.
 For this project, I was tasked to develop an object-oriented programming (OOP) application to create two clocks that display simultaneously and allow for user input using secure and efficient C++ code.
